@@ -8,10 +8,12 @@
          </url>
     </sitemap>
     <sitemap>
-         <url>
-         <video:content_loc>https://emeralddwomoh.github.io/yellowfever/video.mp4</video:content_loc>
-         <priority>0.5</priority>
-         <lastmod>2024-11-2</lastmod>
-         </url>
+        <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+            <url>
+               <video:content_loc>https://emeralddwomoh.github.io/yellowfever/video.mp4</video:content_loc>
+               <priority>0.5</priority>
+               <lastmod>2024-11-2</lastmod>
+            </url>
+        </urlset>    
     </sitemap>
 </sitemapindex>
